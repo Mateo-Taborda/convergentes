@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">Lab1</string>
-        <string name="resolve">No se encontro ninguna cerveza</string>
-        <string-array name="beer_colors">
-            <item>Red</item>
-            <item>Light</item>
-            <item>Dark</item>
-            <item>Anber</item>
+        <string name="resolve">No se encontro ninguna producto</string>
+        <string-array name="tipo_producto">
+            <item>Solido</item>
+            <item>Liquido</item>
+            <item>Agricola</item>
+
         </string-array>
 
 
